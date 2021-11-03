@@ -1,0 +1,9 @@
+[{
+  "page_url": "https://www.walmart.com/ip/Xbox-Series-X/443574645",
+  "out_of_stock_xpath": "/html/body/html/body/div[1]/div[1]/div/div/div/div/section/main/div/div[2]/div/div[1]/div/div/div[1]/div/div[4]/div/div/div/div[1]",
+  "out_of_stock_text": "You can buy this online-only deal on",
+  "product_name": "Xbox",
+  "vendor_name": "Walmart",
+  "prerequisite_xpaths": [],
+  "prerequisite_iframe": "/html/body/div/div/div[1]/div/div/iframe[1]"
+}]

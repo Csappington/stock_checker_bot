@@ -1,0 +1,80 @@
+[{
+  "page_url": "https://www.bestbuy.com/site/microsoft-xbox-series-x-1tb-console-black/6428324.p?skuId=6428324",
+  "out_of_stock_xpath": "/html/body/div[3]/main/div[2]/div/div[1]/div[3]/div[2]/div/div[1]/div[4]/div/div/div/div[2]/div[1]/strong",
+  "out_of_stock_text": "Sold Out",
+  "product_name": "Xbox",
+  "vendor_name": "Best Buy #1",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.bestbuy.com/site/microsoft-xbox-series-x-halo-infinite-limited-edition-black/6477938.p?skuId=6477938",
+  "out_of_stock_xpath": "/html/body/div[3]/main/div[2]/div[3]/div[2]/div/div/div[14]/div[2]/div/div/div/button",
+  "out_of_stock_text": "Coming Soon",
+  "product_name": "Xbox",
+  "vendor_name": "Best Buy #2",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/bae995a1-12d3-4bc1-a355-8666d4bb729f",
+  "out_of_stock_xpath": "/html/body/div[3]/main/div[2]/div[3]/div[2]/div/div/div[8]/div[1]/div/div/div/button",
+  "out_of_stock_text": "Sold Out",
+  "product_name": "Xbox",
+  "vendor_name": "Best Buy #3",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/35009727-f7d1-47df-8219-d68c6e83990c",
+  "out_of_stock_xpath": "/html/body/div[3]/main/div[2]/div[3]/div[2]/div/div/div[8]/div[1]/div/div/div/button",
+  "out_of_stock_text": "Sold Out",
+  "product_name": "Xbox",
+  "vendor_name": "Best Buy #4",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.bestbuy.com/site/combo/xbox-series-x-and-s-consoles/7298b293-4d51-43fd-adb4-ad00cfa76c4f",
+  "out_of_stock_xpath": "/html/body/div[3]/main/div[2]/div[3]/div[2]/div/div/div[8]/div[1]/div/div/div/button",
+  "out_of_stock_text": "Sold Out",
+  "product_name": "Xbox",
+  "vendor_name": "Best Buy #5",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.antonline.com/microsoft/xbox/series-x-launch",
+  "out_of_stock_xpath": "/html/body/div[6]/div[3]/div/div/div[2]/div/div[2]/span",
+  "out_of_stock_text": " Sold Out ",
+  "product_name": "Xbox",
+  "vendor_name": "AntOnline",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.target.com/p/xbox-series-x-console/-/A-80790841?clkid=0511c70fN2ed711eca8b25f3883f0e8a5&lnm=81938&afid=Future%20PLC.&ref=tgt_adv_xasd0002",
+  "out_of_stock_xpath": "/html/body/div[1]/div/div[4]/div/div/div[1]/div[1]",
+  "out_of_stock_text": "product not available",
+  "product_name": "Xbox",
+  "vendor_name": "Target",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.gamestop.com/products/microsoft-xbox-series-x/224744.html",
+  "out_of_stock_xpath": "/html/body/div[6]/div[5]/div[2]/div[1]/div/div[2]/div[2]/div[3]/div[11]/div[2]/div/div[1]/button",
+  "out_of_stock_text": "unavailable",
+  "product_name": "Xbox",
+  "vendor_name": "Gamestop",
+  "prerequisite_xpaths": []
+},
+{
+  "page_url": "https://www.xbox.com/en-US/consoles/xbox-series-x?icid=XboxCat_CP3_R1_SeriesFamily_X#purchase",
+  "out_of_stock_xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[1]/span[3]/span",
+  "out_of_stock_text": "Out of stock",
+  "product_name": "Xbox",
+  "vendor_name": "Microsoft",
+  "prerequisite_xpaths": ["/html/body/div[1]/div/div/div[3]/div/div/div/div[2]/div[24]/section[2]/div[3]/div[2]/div/a"]
+},
+{
+  "page_url": "https://www.xbox.com/en-us/configure/8WJ714N3RBTL",
+  "out_of_stock_xpath": "/html/body/div[1]/div/div/div[3]/section/div/div/div/div/div/div[3]/button",
+  "out_of_stock_text": "Out of stock",
+  "product_name": "Xbox",
+  "vendor_name": "Microsoft",
+  "prerequisite_xpaths": []
+}]
